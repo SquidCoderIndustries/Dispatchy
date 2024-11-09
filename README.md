@@ -1,2 +1,2 @@
-# DispatchyPublicReleases
+# Dispatchy
 Download Dispatchy here

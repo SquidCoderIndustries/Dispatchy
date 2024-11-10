@@ -1,5 +1,5 @@
 # Dispatchy
-Download releases of Dispatchy from the Releases page here.
+Download releases of Dispatchy from the [Releases](https://github.com/SquidCoderIndustries/Dispatchy/releases/latest) page.
 
 
 ---
